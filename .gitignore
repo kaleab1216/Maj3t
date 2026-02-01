@@ -1,0 +1,11 @@
+# Ignore EVERYTHING
+*
+
+# But keep folders
+!*/
+
+# Keep the setup files
+!.gitignore
+!.gitkeep
+!pubspec.yaml
+!README.md
